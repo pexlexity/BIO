@@ -1,4 +1,4 @@
-# mironvelkov
+# Morphiussur
 <h1 align="center">👋 Hi, I'm Miron Velkov</h1>
 
 <p align="center">
