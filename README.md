@@ -2,47 +2,50 @@
 <h1 align="center">👋 Hi, I'm Miron Velkov</h1>
 
 <p align="center">
-  🛡️ Cybersecurity Specialist | 🎯 OSINT & Pentesting Focus | 🧠 3 Years of Hands-On Experience
+  🛡️ Cybersecurity Specialist | 💥 Web Pentesting & Offensive Security | 🧠 3 Years of Hands-On Experience
 </p>
 
 ---
 
-### 🧰 Core Competencies
+### 💡 About Me
 
-- 🕵️‍♂️ **OSINT**: Open-source intelligence, profiling, digital investigations
-- 💥 **Pentesting**: Web, network, and social engineering attack simulations
-- 🛠️ **Red Teaming**: Offensive security operations & adversary emulation
-- 🔍 **Reconnaissance**: Custom tooling, automation, and passive data harvesting
-- 📎 **Methodologies**: Own scripts, tactics, and tailored attack chains
-
----
-
-### ⚙️ Tools & Technologies
-
-`Python` • `Bash` • `Go` • `Burp Suite` • `Nmap` • `Metasploit` • `Maltego` • `Shodan` • `Recon-ng` • `SpiderFoot`
+- 🎯 Focused on **Web Application Security**, vulnerability analysis, and offensive testing
+- 🧑‍🎓 **Skillbox Certified** in Ethical Hacking & Penetration Testing
+- ⚙️ Experienced with **full-stack vulnerability assessments**, using both popular and niche tools
+- 🧠 Exploring the intersection of **Cybersecurity and Artificial Intelligence**
+- 🚀 Constantly learning — studying **Python (basics)** and improving automation skills
+- 🌐 Fluent in **Russian** and **English**
+- 🎯 Goal: Integrate custom security tools and testing methods into **real-world enterprise-grade systems**
 
 ---
 
-### 📦 Featured Projects
+### ⚒️ Tools & Arsenal
+
+`Burp Suite` • `Nmap` • `SQLMap` • `Wireshark` • `Hydra` • `Shodan` • `Metasploit` • `Maltego` • `Havoc Framework` •  
+`OpenVAS` • `John The Ripper` • `Hashcat` • `Nikto` • `SET Toolkit` • `Wordlists` • *+ less-known tools for in-depth testing*
+
+---
+
+### 📦 Featured Projects (WIP and Planned)
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔍 **osint-toolkit** | Custom CLI toolkit for automated OSINT reconnaissance | Python, REST APIs, CLI |
-| 💣 **web-pentest-lab** | Local lab to practice and demo common web vulnerabilities | Docker, Flask, OWASP |
-| 👁️ **dox-tracer** | Digital footprint & metadata tracer for exposed identities | Python, BeautifulSoup |
-| 📓 **notes-redteam** | Field notes, cheat sheets, and red team SOPs | Markdown |
+| 💣 **web-pentest-lab** | Lab environment for common vulnerabilities & practice | Docker, Flask, OWASP |
+| 🔧 **vuln-scanner** *(WIP)* | Modular scanner with rule-based detection | Python, Regex, Requests |
+| 📂 **payload-collections** | Custom payloads, fuzzing templates & recon tools | Markdown, Burp-compatible |
+| 🧠 **ai-recon-research** *(Planned)* | Research log on AI-assisted recon and fingerprinting | Markdown, Python |
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me
 
-- Email: `your.email@domain.com`
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- LinkedIn: [linkedin.com/in/miron-velkov](https://linkedin.com/in/your-link)
+- 🛜 Telegram: [@Morphiussur](https://t.me/Morphiussur)
+- 📧 Email: `4302505@mail.ru`
+- 🌐 LinkedIn: [linkedin.com/in/miron-velkov](https://linkedin.com/in/your-link)
 
 ---
 
 ### 🧠 Quote
 
-> "Where others see noise — we see footprints."
+> "Exploits are temporary. Curiosity is forever."
 
