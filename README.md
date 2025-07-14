@@ -40,7 +40,7 @@
 ### 📫 Contact Me
 
 - 🛜 Telegram: [@Morphiussur](https://t.me/Morphiussur)
-- 📧 Email: `4302505@mail.ru`
+- 📧 Email: `93072@proton.me`
 - 🌐 LinkedIn: [linkedin.com/in/miron-velkov](https://linkedin.com/in/your-link)
 
 ---
