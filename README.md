@@ -41,7 +41,7 @@
 
 - 🛜 Telegram: [@Morphiussur](https://t.me/Morphiussur)
 - 📧 Email: `93072@proton.me`
-- 🌐 HackTheBox: [l](https://app.hackthebox.com/profile/Morphiussur)
+- 🌐 HackTheBox: [Morphiussur](https://app.hackthebox.com/profile/Morphiussur)
 
 ---
 
