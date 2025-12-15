@@ -39,7 +39,7 @@
 
 ### 📫 Contact Me
 
-- 🛜 Telegram: [@Morphiussur](https://t.me/Morphiussur)
+- 🛜 Telegram: [@MironVA](https://t.me/MironVA]
 - 📧 Email: `93072@proton.me`
 - 🌐 HackTheBox: [Morphiussur](https://app.hackthebox.com/profile/Morphiussur)
 
